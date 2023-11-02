@@ -1,4 +1,4 @@
-class Computer_solver
+class ComputerSolver
 def initialize
   @key = get_human_selection()
   @guess = []

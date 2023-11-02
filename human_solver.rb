@@ -1,4 +1,4 @@
-class Human_solver
+class HumanSolver
   def initialize
     @key = get_key()
     @guess = []
